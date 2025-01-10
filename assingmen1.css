@@ -66,11 +66,22 @@ nav h2{
 }
 
 /* future-css */
+.future-title{
+    margin-top: 64px;
+    margin-bottom: 19px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.future-des{
+    font-size: 13px;
+    color: rgba(14, 14, 14, 0.7);
+}
 .future-container{
     display: flex;
-    justify-content: space-between;
+   width: 100%;
+   gap: 19px;
     
-    margin: 26px;
+    margin: 26px 2px;
 
 }
 .digital{
@@ -88,4 +99,35 @@ nav h2{
     background-color: rgba(247, 235, 207, 1);
     padding: 26px 26px;
     border-radius: 16px;
+}
+.title{
+    padding-top: 19px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.descrip{
+    padding-top: 9.6px;
+    padding-bottom: 19px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.fut1{
+    padding: 9px 16px;
+    border-radius: 8px;
+    border: none;
+    color:  white;
+    background-color: rgba(84, 144, 245, 1);
+}
+.fut2{
+    padding: 9px 16px;
+    border-radius: 8px;
+    border: none;
+    color:  white;
+    background-color: rgba(9, 161, 92, 1);
+}
+.fut3{
+    padding: 9px 16px;
+    border-radius: 8px;
+    border: none;
+    color:  white;
+    background-color: rgba(255, 194, 57, 1);
 }
