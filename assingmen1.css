@@ -181,7 +181,8 @@ nav h2{
 /* donate-css */
 .donate{
     text-align: center;
-   margin-top: 65px;
+   margin: 64px auto;
+   max-width: 948px;
 }
 .don-title{
     padding-bottom: 19px;
