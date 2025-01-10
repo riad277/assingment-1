@@ -130,7 +130,16 @@ nav h2{
 }
 
 /* recent news */
-
+.rec-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(14, 14, 14, 1);
+    padding-bottom: 19px;
+}
+.rec-des{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 13px;
+}
 .news{
     display: flex;
     gap: 26px;
@@ -167,4 +176,20 @@ nav h2{
     color: white;
     border: none;
     border-radius: 8px;
+}
+
+/* donate-css */
+.donate{
+    text-align: center;
+   margin-top: 65px;
+}
+.don-title{
+    padding-bottom: 19px;
+    font-size: 33px;
+    color: rgba(14, 14, 14, 1);
+}
+.don-des{
+    padding-bottom: 26px;
+    font-size: 13px;
+    color: rgba(14, 14, 14, 0.7);
 }
