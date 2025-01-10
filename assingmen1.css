@@ -64,3 +64,28 @@ nav h2{
     height: 320px;
     width:  376px;
 }
+
+/* future-css */
+.future-container{
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 26px;
+
+}
+.digital{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 26px 26px;
+    border-radius: 16px;
+
+}
+.green{
+    background-color: rgba(198, 228, 214, 1);
+    padding: 26px 26px;
+    border-radius: 16px;
+}
+.modern{
+    background-color: rgba(247, 235, 207, 1);
+    padding: 26px 26px;
+    border-radius: 16px;
+}
