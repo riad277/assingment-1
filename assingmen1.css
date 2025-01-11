@@ -28,6 +28,10 @@ nav h2{
     border: 1px solid #006A50;
 }
 
+.nav-btn:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 /* main-section-bannner-css */
 
 .main1{
@@ -60,7 +64,10 @@ nav h2{
     color: white;
     border: none;
     font-size: 15px;
-
+}
+.banner-btn:hover{
+    background-color: #0056b3;
+    color: white ;
 }
 .hero-img{
     height: 320px;
@@ -116,6 +123,10 @@ nav h2{
     color:  white;
     background-color: rgba(84, 144, 245, 1);
 }
+.fut1:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 .fut2{
     padding: 9px 16px;
     border-radius: 8px;
@@ -123,12 +134,21 @@ nav h2{
     color:  white;
     background-color: rgba(9, 161, 92, 1);
 }
+.fut2:hover{
+    background-color: #0056b3;
+    color: white ;
+}
+
 .fut3{
     padding: 9px 16px;
     border-radius: 8px;
     border: none;
     color:  white;
     background-color: rgba(255, 194, 57, 1);
+}
+.fut3:hover{
+    background-color: #0056b3;
+    color: white ;
 }
 /* speech-css */
 
@@ -199,7 +219,10 @@ nav h2{
     border: none;
     border-radius: 8px;
 }
-
+.sat-btn:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 /* donate-css */
 .donate{
     text-align: center;
@@ -226,6 +249,10 @@ nav h2{
     margin-right: 17px;
     background-color: white;
 }
+.tk:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 .tk1{
     background-color: rgba(198, 228, 214, 1);
 }
@@ -240,16 +267,17 @@ nav h2{
     margin-bottom: 25px;
 }
 .donate-btn{
-   
     padding: 14px 27px;
     border-radius: 8px;
     border: none;
     background-color: rgba(0, 106, 80, 1);
     font-size: 14px;
     color: white;
-   
 }
-
+.donate-btn:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 /* subscribe-css */
 .sub-hold{
     padding-bottom: 64px;
@@ -276,7 +304,6 @@ border-radius:15px 0 0 15px ;
 border: none;
 padding: 14px 32px;
 width: 370px;
-/* color: rgba(14, 14, 14, 0.3); */
 }
 .subs-input placeholder{
     color: rgba(14, 14, 14, 0.3);
@@ -289,7 +316,10 @@ background-color: rgba(0, 106, 80, 1);
 color: white;
 margin-bottom: 19px;
 }
-
+.subs-btn:hover{
+    background-color: #0056b3;
+    color: white ;
+}
 /* footer css */
 .fot-title{
     text-align: center;
