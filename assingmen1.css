@@ -227,3 +227,41 @@ nav h2{
     color: white;
    
 }
+
+/* subscribe-css */
+
+.subs{
+    text-align: center;
+    background-color: rgba(198, 228, 214, 1);
+    padding: 64px 75px;
+    border-radius: 24px;
+    margin-bottom: 80px;
+}
+.subs-title{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 13px;
+}
+.subs-des{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 13px;
+    margin-bottom: 19px;
+}
+.subs-input{
+border-radius:15px 0 0 15px ;
+border: none;
+padding: 14px 32px;
+width: 370px;
+/* color: rgba(14, 14, 14, 0.3); */
+}
+.subs-input placeholder{
+    color: rgba(14, 14, 14, 0.3);
+}
+.subs-btn{
+border-radius:0 15px 15px 0 ;
+border: none;
+padding: 14px 27px;
+background-color: rgba(0, 106, 80, 1);
+color: white;
+margin-bottom: 19px;
+}
