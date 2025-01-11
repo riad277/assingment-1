@@ -232,13 +232,15 @@ nav h2{
 }
 
 /* subscribe-css */
-
+.sub-hold{
+    padding-bottom: 64px;
+}
 .subs{
     text-align: center;
     background-color: rgba(198, 228, 214, 1);
     padding: 64px 75px;
     border-radius: 24px;
-    margin-bottom: 80px;
+   
 }
 .subs-title{
     font-size: 32px;
@@ -267,4 +269,19 @@ padding: 14px 27px;
 background-color: rgba(0, 106, 80, 1);
 color: white;
 margin-bottom: 19px;
+}
+
+/* footer css */
+.fot-title{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 52px;
+    font-size: 26px;
+}
+.fot-imgs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+    padding-bottom: 40px;
 }
