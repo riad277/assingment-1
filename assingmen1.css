@@ -194,3 +194,36 @@ nav h2{
     font-size: 13px;
     color: rgba(14, 14, 14, 0.7);
 }
+.tk{
+    padding: 32px;
+    border-radius: 16px;
+    font-size: 32px;
+    font-weight: bold;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    margin-bottom: 24px;
+    margin-right: 17px;
+    background-color: white;
+}
+.tk1{
+    background-color: rgba(198, 228, 214, 1);
+}
+.donate-in{
+    width: 80%;
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 16px 0px;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.3); 
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    margin-bottom: 25px;
+}
+.donate-btn{
+    background-color: ;
+    padding: 14px 27px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgba(0, 106, 80, 1);
+    font-size: 14px;
+    color: white;
+   
+}
