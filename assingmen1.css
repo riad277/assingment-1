@@ -35,6 +35,9 @@ nav h2{
     margin-left: 130px;
     margin-right: 130px;
 }
+.back{
+    background-color: rgba(241, 241, 243, 1);
+}
 
 .banner{
     display: flex;
