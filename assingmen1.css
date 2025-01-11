@@ -131,6 +131,21 @@ nav h2{
     color:  white;
     background-color: rgba(255, 194, 57, 1);
 }
+/* speech-css */
+
+.speech{
+    background-color: rgba(255, 255, 255, 1);
+    background-image: url("assets/quote-bg.png");
+    background-repeat: no-repeat;
+    padding: 39px 19px;
+    border-radius: 19px;
+   margin-bottom: 64px;
+   margin-top: 26px;
+}
+.speech p{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 14px;
+}
 
 /* recent news */
 .rec-title{
